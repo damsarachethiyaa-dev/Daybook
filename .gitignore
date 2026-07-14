@@ -1,0 +1,8 @@
+node_modules
+out
+dist
+.tsc-out
+dist-electron
+release
+*.log
+.DS_Store

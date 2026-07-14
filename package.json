@@ -1,0 +1,61 @@
+{
+  "name": "daybook",
+  "version": "0.1.0",
+  "description": "Daybook — a local-first trading journal and P&L calendar",
+  "main": "./out/main/index.js",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "preview": "electron-vite preview",
+    "start": "electron-vite preview",
+    "dist:win": "electron-vite build && electron-builder --win --publish never"
+  },
+  "build": {
+    "appId": "com.daybook.app",
+    "productName": "Daybook",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "out/**/*"
+    ],
+    "win": {
+      "icon": "build/icon.ico",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "artifactName": "Daybook-Setup-${version}.${ext}"
+    }
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "electron": "^31.0.2",
+    "electron-builder": "^26.15.3",
+    "electron-vite": "^2.3.0",
+    "png-to-ico": "^3.0.2",
+    "postcss": "^8.4.38",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.4.5",
+    "vite": "^5.3.1"
+  }
+}

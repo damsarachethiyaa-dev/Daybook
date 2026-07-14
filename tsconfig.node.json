@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "target": "ES2022",
+    "lib": ["ES2023"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "types": ["electron-vite/node"],
+    "skipLibCheck": true,
+    "strict": true,
+    "outDir": "./.tsc-out/node",
+    "tsBuildInfoFile": "./.tsc-out/node.tsbuildinfo"
+  },
+  "include": ["electron.vite.config.ts", "src/main/**/*", "src/preload/**/*"]
+}
