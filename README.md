@@ -199,6 +199,13 @@ No license has been chosen yet — all rights reserved by the author for now.
 
 ---
 
+## 👤 Author
+
+- **Developer:** [Chethiya Rathnasekara](https://github.com/damsarachethiyaa-dev)
+- **Repository:** [https://github.com/damsarachethiyaa-dev/Daybook](https://github.com/damsarachethiyaa-dev/Daybook)
+
+---
+
 <div align="center">
 
 **Built with ❤️ (and a lot of ☕) for traders who journal.**
