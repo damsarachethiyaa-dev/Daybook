@@ -30,13 +30,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/damsarachethiyaa-dev/Daybook/releases">
-      <img src="https://img.shields.io/github/downloads/damsarachethiyaa-dev/Daybook/total?style=for-the-badge&logo=github&logoColor=white&label=TOTAL%20DOWNLOADS&labelColor=23272e&color=00e676" alt="Total downloads" />
-    </a>
-  </p>
-
-  <p>
-    <img src="docs/readme-stats.svg" width="606" alt="Latest release v1.0.0, 100% local data, no account needed" />
+    <img src="docs/readme-stats.svg" width="606" alt="Downloads, latest release v1.0.0, 100% local data" />
   </p>
 
 

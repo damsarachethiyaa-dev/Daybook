@@ -4,20 +4,20 @@
     <g transform="translate(0 0)">
       <g clip-path="url(#c)"><rect width="198" height="48" rx="4" fill="#161b22"/><rect width="198" height="2" fill="#ff6d00"/></g>
       <rect x="0.5" y="0.5" width="197" height="47" rx="4" fill="none" stroke="#30363d"/>
-      <text x="99" y="23" text-anchor="middle" font-size="17" font-weight="700" fill="#f0f6fc">v1.0.0</text>
-      <text x="99" y="37" text-anchor="middle" font-size="8" font-weight="600" letter-spacing="1.4" fill="#8b949e">LATEST RELEASE</text>
+      <text x="99" y="23" text-anchor="middle" font-size="17" font-weight="700" fill="#f0f6fc">1</text>
+      <text x="99" y="37" text-anchor="middle" font-size="8" font-weight="600" letter-spacing="1.4" fill="#8b949e">TOTAL DOWNLOADS</text>
     </g>
     <g transform="translate(204 0)">
       <g clip-path="url(#c)"><rect width="198" height="48" rx="4" fill="#161b22"/><rect width="198" height="2" fill="#00e676"/></g>
       <rect x="0.5" y="0.5" width="197" height="47" rx="4" fill="none" stroke="#30363d"/>
-      <text x="99" y="23" text-anchor="middle" font-size="17" font-weight="700" fill="#f0f6fc">100%</text>
-      <text x="99" y="37" text-anchor="middle" font-size="8" font-weight="600" letter-spacing="1.4" fill="#8b949e">LOCAL DATA</text>
+      <text x="99" y="23" text-anchor="middle" font-size="17" font-weight="700" fill="#f0f6fc">v1.0.0</text>
+      <text x="99" y="37" text-anchor="middle" font-size="8" font-weight="600" letter-spacing="1.4" fill="#8b949e">LATEST RELEASE</text>
     </g>
     <g transform="translate(408 0)">
       <g clip-path="url(#c)"><rect width="198" height="48" rx="4" fill="#161b22"/><rect width="198" height="2" fill="#7c4dff"/></g>
       <rect x="0.5" y="0.5" width="197" height="47" rx="4" fill="none" stroke="#30363d"/>
-      <text x="99" y="23" text-anchor="middle" font-size="17" font-weight="700" fill="#f0f6fc">0</text>
-      <text x="99" y="37" text-anchor="middle" font-size="8" font-weight="600" letter-spacing="1.4" fill="#8b949e">ACCOUNTS NEEDED</text>
+      <text x="99" y="23" text-anchor="middle" font-size="17" font-weight="700" fill="#f0f6fc">100%</text>
+      <text x="99" y="37" text-anchor="middle" font-size="8" font-weight="600" letter-spacing="1.4" fill="#8b949e">LOCAL DATA</text>
     </g>
   </g>
 </svg>
