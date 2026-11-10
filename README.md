@@ -1,22 +1,42 @@
 <div align="center">
 
-<img src="build/icon.png" width="96" alt="Daybook logo" />
+  <a href="https://github.com/damsarachethiyaa-dev/Daybook">
+    <img src="build/icon.png" width="112" alt="Daybook icon" />
+  </a>
 
-# 📒 Daybook
+  # Daybook
 
-### A beautiful, local-first trading journal & P&L calendar for Windows
+  ### Desktop App — Windows 10 & 11
 
-*Track every trade. See your month at a glance. Never get blindsided by high-impact news again.*
+  **Track every trade. See your month at a glance.**  
+  *A local-first trading journal & P&L calendar with an economic news feed • no account • no cloud.*
 
-![Electron](https://img.shields.io/badge/Electron-31-47848F?logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D6?logo=windows&logoColor=white)
-![Storage](https://img.shields.io/badge/Data-100%25_Local-22c55e)
-![Version](https://img.shields.io/badge/Version-0.1.0-8b5cf6)
+  <br />
+
+  <p>
+    <a href="https://github.com/damsarachethiyaa-dev/Daybook/releases/latest"><img src="https://img.shields.io/badge/DOWNLOAD_INSTALLER-.EXE_(V1.0.0)-00C853?style=for-the-badge&labelColor=23272e&logo=windows&logoColor=white" alt="DOWNLOAD INSTALLER .EXE (V1.0.0)" /></a>
+    &nbsp;
+    <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/#projects"><img src="https://img.shields.io/badge/PORTFOLIO-CASE_STUDY-7c4dff?style=for-the-badge&labelColor=23272e&logo=googlechrome&logoColor=white" alt="PORTFOLIO CASE STUDY" /></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/ELECTRON-31-47848F?style=for-the-badge&labelColor=23272e&logo=electron&logoColor=white" alt="ELECTRON 31" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/REACT-18-20232A?style=for-the-badge&labelColor=23272e&logo=react&logoColor=white" alt="REACT 18" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/TYPESCRIPT-5-3178C6?style=for-the-badge&labelColor=23272e&logo=typescript&logoColor=white" alt="TYPESCRIPT 5" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/DATA-100%25_LOCAL-22c55e?style=for-the-badge&labelColor=23272e" alt="DATA 100% LOCAL" />
+  </p>
+
+  <p>
+    <img src="docs/readme-stats.svg" width="606" alt="Latest release v1.0.0, 100% local data, no account needed" />
+  </p>
+
 
 </div>
+
+<br />
 
 ---
 
